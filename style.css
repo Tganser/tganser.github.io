@@ -9,13 +9,13 @@ body {
 }
 
 #content-title {
+	text-align: center;
 	font-size: 60px;
 	letter-spacing: 20px;
-	justify-content: center;
 }
 
 #content-info {
-	justify-content: center;
+	text-align: center;
 	font-size: 14px;
 	letter-spacing: 2px;
 }
