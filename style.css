@@ -1,22 +1,14 @@
 body {
-	font: 16px Corbel, Sans-Serif;
+	font: 16px Lato, Sans-Serif;
 }
 
-#button {
-	margin-left: 40%;
-	margin-right: 40%;
-	background-color: #213862;
-
-	border-radius: 15px;
-	height: 100px;
-}
 
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
 }
 
-#content-contact {
+#content-about {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	font-size: 42px;
@@ -25,7 +17,7 @@ body {
 	border-bottom: 1px solid #999;
 }
 
-#content-professionalheader {
+#content-header {
 	font-size: 28px;
 }
 
